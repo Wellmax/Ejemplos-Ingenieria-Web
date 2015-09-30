@@ -14,20 +14,19 @@
 	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/LibreriasHibernate/slf4j-api-1.6.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/LibreriasHibernate/slf4j-log4j12-1.7.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/mysql-connector-java-5.1.22-bin.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/com.springsource.org.aopalliance-1.0.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/commons-logging.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/mail.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/spring-aop-3.2.0.RC1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/spring-beans-3.2.0.RC1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/spring-context-3.2.0.RC1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/spring-core-3.2.0.RC1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/spring-expression-3.2.0.RC1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/spring-jdbc-3.2.0.RC1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/spring-orm-3.2.0.RC1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/spring-test-3.2.0.RC1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/spring-tx-3.2.0.RC1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring/spring-web-3.2.0.RC1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/log4j-1.2.17.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/spring-aop-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/spring-expression-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/spring-jdbc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/spring-orm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/spring-test-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/spring-tx-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Taren/Documents/Jars Externos/Spring4/spring-web-4.1.6.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
